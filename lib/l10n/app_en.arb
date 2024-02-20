@@ -1,0 +1,231 @@
+{
+  "pick_language": "Pick language",
+  "you_have_pushed_the_button_this_many_times": "You have pushed the button this many times",
+  "increment": "Increment",
+  "make_sure_you_added_italian_and_deutsch_translations": "Make sure you added Italian and Deutsch translations",
+  "test": "arb_translate is a powerful internationalization (i18n) package for Flutter that facilitates the management and translation of application strings and other resources. It provides a streamlined approach to handling localized content, allowing developers to maintain different language versions of their app with ease. With arb_translate, developers can efficiently extract, update, and maintain translation files in ARB (Application Resource Bundle) format. This package simplifies the localization process, enabling developers to provide a seamless multilingual experience for their users.",
+  "textLoadingAd": "Loading Ads",
+  "textLoadingAdContent": "Please wait for us for a moment!",
+  "textTitleLoading": "Loading...",
+  "textRestoreTitle": "Restore purchases",
+  "textRestoreSuccess": "Restore Success",
+  "textRestoreError": "Sorry, we cannot find purchases to restore",
+  "exportErrorPremium": "You need to become a VIP to use this feature",
+  "language": "Language",
+  "support": "Support",
+  "policy": "Privacy",
+  "terms": "Terms",
+  "other": "Other",
+  "restore": "Restore",
+  "rateApp": "Rate App",
+  "freeTrial": "3 days free trial. Then {price} per month",
+  "@freeTrial": {
+    "placeholders": {
+      "price": {
+        "type": "String",
+        "example": "$12"
+      }
+    }
+  },
+  "monthly": "Monthly",
+  "yearly": "Yearly",
+  "lifetime": "Lifetime",
+  "textIntro1": "Free Transmission",
+  "textIntroContent1": "Share games, video, popular app, documents, photos & more",
+  "textIntro2": "Super Easy To Use!",
+  "textIntroContent2": "You can quickly and securely send and share any file, anywhere in the world.",
+  "textIntro3": "Easy to Use File Manager",
+  "textIntroContent3": "The easy-to-use File Manager allows you to transfer files, file clean.",
+  "textIntro4": "Supports all Types of Files",
+  "textIntroContent4": "Transfer: Files, Photos, Movies, Videos, Music,... with just one tap!",
+  "getStarted": "Get Started",
+  "textContinue": "Continue",
+  "splashDescription": "Advertising helps us maintain and develop products",
+  "started": "Started",
+  "setting": "Setting",
+  "moreApp": "More App",
+  "shareApp": "Share App",
+  "rateDescription": "Support us 5 stars for better app development",
+  "rateButtonText": "Rate Now",
+  "rateTitle": "Rate us",
+  "rateResponse": "Thank you for using our app",
+  "titleReminder": "⚡️ Files on the move! (99% sent)",
+  "desReminder": "Your files are transferring seamlessly across devices. Keep an eye on progress here!",
+  "titleLaunch": " Ready to receive?",
+  "send": "Send",
+  "receive": "Receive",
+  "desLaunch": "Your files are waiting! Swipe to open File Share on your device and start exploring.",
+  "text_no_file": "No File",
+  "text_title_delete_file": "These items will deleted. This action cannot be undone.",
+  "text_delete": "Delete",
+  "text_cancel": "Cancel",
+  "add_file": "Add file ({size}/150MB)",
+  "@add_file": {
+    "placeholders": {
+      "size": {
+        "double": "String",
+        "example": "0"
+      }
+    }
+  },
+  "text_select_files": "Select files",
+  "text_ip": "IP",
+  "text_os_version": "OS Version",
+  "text_os_name": "OS Name",
+  "text_port": "Port",
+  "text_sharing_file": "You are currently sharing {file} file",
+  "@text_sharing_file": {
+    "placeholders": {
+      "file": {
+        "double": "String",
+        "example": "0"
+      }
+    }
+  },
+  "text__have_connected_wifi": "Please make sure you have connected to same wifi hotspot",
+  "text_stop_sharing": "Stop Sharing",
+  "connect": "Connect",
+  "scanning": "Scanning...",
+  "scanToConnect": "Scan to Connect",
+  "connectDescription": "Scan my QR Code or tap my Wi-Fi hotspot to connect",
+  "connectDeviceQuestion": "Do you want to connect to this device?",
+  "accept": "Accept",
+  "reject": "Reject",
+  "confirmConnection": "Confirm connection",
+  "name": "Name",
+  "connectedSuccessfully": "Connected successfully",
+  "connectedRefused": "The connection has been refused",
+  "connectedFailed": "Connection failed",
+  "text_permisstion": "Noise level detection requires access to your microphone, please go to System Settings>Privacy>Microphone Services to enable the switch and allow the App to use the microphone service",
+  "text_setting_app_bar": "Open settings",
+  "text_share_file": "Share File",
+  "text_scan_code": "Scan code here",
+  "deviceInfo": "Device Info",
+  "files": "Files",
+  "downloads": "Downloads",
+  "seeAll": "See all",
+  "noFile": "No File",
+  "downloadFailed": "⚠️ Oops! {filename} couldn't be downloaded. ⚠️",
+  "@downloadFailed": {
+    "placeholders": {
+      "filename": {
+        "double": "String",
+        "example": "0"
+      }
+    }
+  },
+  "downloadSuccessfully": "{filename} is ready for you!",
+  "@downloadSuccessfully": {
+    "placeholders": {
+      "filename": {
+        "double": "String",
+        "example": "0"
+      }
+    }
+  },
+  "downloadingSuccessfully": "Downloading {filename}",
+  "@downloadingSuccessfully": {
+    "placeholders": {
+      "filename": {
+        "double": "String",
+        "example": "0"
+      }
+    }
+  },
+  "loadFilesError": "There was an error loading files. \n Please try again",
+  "loadDownloadFilesError": "We need READ EXTERNAL STORAGE permission to access external files. Please grant permission to the app and try again.",
+  "cameraPermissionDescription": "We need CAMERA permission to scan QR. Please grant permission to the app and try again.",
+  "text_rename": "Rename",
+  "text_share": "Share",
+  "textok": "OK",
+  "text_how_use": "How to use ?",
+  "tetx_send": "Send",
+  "tetx_receive": "Receive",
+  "text_send_01": "Install our app on the receiver’s device",
+  "text_send_02": "\tIf Wi-Fi is available, connect the device to the Wi-Fi network. Make sure your device is connected to the same network as the receiver's device.\n\tIf Wi-Fi is not available, turn on and share the Hotspot on the device.",
+  "text_send_03": "Click the “Send” button on the home screen. Select the file to send",
+  "text_send_04": "Tap the send icon",
+  "text_send_05": "Device information and qr code were created successfully",
+  "text_receive_01": "Install our app on the sender’s device",
+  "text_receive_02": "Connect to the WIFI network, make sure your device is connected to the same network as the sending device, or connect to the sender's Hotspot.",
+  "text_receive_03": "Click the “Receive” button on the home screen.",
+  "text_receive_04": "The device will automatically search for devices on the same network,",
+  "text_receive_05": "The device will automatically search for devices on the same network, Or you can scan the QR code to connect directly to the sending device",
+  "text_receive_06": "Sending device information and list of sent files",
+  "text_content_premium_01": "Ad-free experience",
+  "text_content_premium_02": "Send really big files regularly",
+  "text_content_premium_03": "Send and receive unlimited data",
+  "text_cancel_any_time": "Cancel any time on the App Store",
+  "sale_with_percent": "Sale {percent}%",
+  "@sale_with_percent": {
+    "placeholders": {
+      "percent": {
+        "double": "String",
+        "example": "0"
+      }
+    }
+  },
+  "free_3_day": "3-days free trial, then {price}/year",
+  "@free_3_day": {
+    "placeholders": {
+      "price": {
+        "double": "String",
+        "example": "0"
+      }
+    }
+  },
+  "tetx_plans_pricing": "Plans and Pricing",
+  "text_done": "Done",
+  "text_subscribe": "Subscribe",
+  "loadingData": "Loading data ...",
+  "shareFailedTitle": "Sharing failed!",
+  "shareFailedDescription": "There's something wrong!!",
+  "noInternetAvailable": "No Internet Available",
+  "scanQRFailedDescription": "Invalid QR code or connection error",
+  "text_premium_home": "Lets you share very large file",
+  "connectUnstable": "Connection is unstable",
+  "connectUnstableDescription": "The sharing process will be stopped.",
+  "text_connection_failed": "Connection failed",
+  "text__check_network_connection": "Please check your network connection",
+  "enterFileName": "Enter a file name",
+  "buyNow": "Buy now",
+  "start3Day": "Start 3-days free trial",
+  "text_delete_previous_duplicate_files": "Please delete previous duplicate files",
+  "connecting": "Connecting... \nPlease wait a moment",
+  "bestDeal": "Best Deal",
+  "addFile": "Add file",
+  "premiumQuestionTitle": "We are sorry to see you go",
+  "premiumQuestionDescription": "Please share with us why you missed out on the offer ?",
+  "premiumQuestionTooHigh": "The price is too high",
+  "premiumQuestionNoNeed": "Not sure I need the app",
+  "premiumQuestionNoLike": "I don’t like subscribing",
+  "premiumThankFeedback": "Thanks for giving us feedback",
+  "saleTitle": "Big Sale {percent}% OFF",
+  "@saleTitle": {
+    "placeholders": {
+      "percent": {
+        "double": "String",
+        "example": "0"
+      }
+    }
+  },
+  "saleDescription": "Don’t miss out this super offer",
+  "okIKnow": "OK, I know",
+  "becomeToVip": "Become to VIP",
+  "maxFileDescription": "Please double-check your selected file size",
+  "takeCamera": "Take a Photo",
+  "uploadGallery": "Upload from Gallery",
+  "uploadBrowse": "Upload from Browse",
+  "failedPurchase": "Failed purchase",
+  "failedPurchaseDescription": "We're sorry, there was an error during the purchase process",
+  "subscriptionAndroidDescription": "All our subscriptions will automatically renew unless canceled during the subscription period. The payment will be charged to your Google Play account upon purchase confirmation. You will be charged for renewal within 24 hours prior to the end of the current subscription period. You can cancel auto-renewal at any time, but there will be no refunds during the active subscription period.\\nIf you wish to cancel at the end of your current subscription, all you need to do is manage your auto-renewal option. It's important to note that this must be done on your mobile device, and we cannot do it for you.",
+  "stopServerTitle": "Are you sure you want to back?",
+  "stopServerDescription": "The sharing process will be stopped",
+  "appStoreQr": "You can download the app here",
+  "noticeStopTitle": "Connection interrupted",
+  "noticeStopDescription": "Please check the sending device again",
+  "downloadAll": "Download All",
+  "text_hello": "Hello",
+  "text_choose_avatar": "Choose your avatar",
+  "processingFiles": "Processing files ..."
+}
