@@ -1,2 +1,5 @@
 # How to render translate
-- run :  arb_translate
+- run :
+- flutter clean
+- flutter pub get
+-  arb_translate
